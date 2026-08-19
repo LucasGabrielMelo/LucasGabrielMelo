@@ -24,7 +24,7 @@ My main topics of interest are:
 </ul>
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasGabrielMelo&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasGabrielMelo&theme=dark"/>
 </p>
 
 <div align="center">
