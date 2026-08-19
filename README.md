@@ -23,6 +23,9 @@ I have interest in the following topics:
   <li>telecommunications</li>
 </ul>
 
-<div align='center'>
-  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.gabriel.melo@ee.ufcg.edu.br)
+<div align="center">
+
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.gabriel.melo@ee.ufcg.edu.br)
+
 </div>
