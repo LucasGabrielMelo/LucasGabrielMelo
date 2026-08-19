@@ -1,4 +1,4 @@
-## Hi, I'm Lucas Gabriel
+## \centering{Hi, I'm Lucas Gabriel}
 
 <!--
 **LucasGabrielMelo/LucasGabrielMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
