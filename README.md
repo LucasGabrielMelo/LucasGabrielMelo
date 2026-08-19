@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 </div>
 
-I am a undergraduate electrical engineering student from the Federal University of Campina Grande (UFCG), specializing in photonic integrated circuits (PICs). 
+I am a undergraduate electrical engineering student at the Federal University of Campina Grande (UFCG), specializing in photonic integrated circuits (PICs). 
 
 My main topics of interest are:
 
