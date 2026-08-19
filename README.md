@@ -25,7 +25,4 @@ I have interest in the following topics:
 
 To contact me: lucas.gabriel.melo@ee.ufcg.edu.br
 
-<div>
-  <a href="https://github.com/LucasGabrielMelo">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=LucasGabrielMelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-</div>
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.gabriel.melo@ee.ufcg.edu.br)
