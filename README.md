@@ -24,5 +24,3 @@ I have interest in the following topics:
 </ul>
 
 To contact me: lucas.gabriel.melo@ee.ufcg.edu.br
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielMelo&layout=compact&theme=dracula)
