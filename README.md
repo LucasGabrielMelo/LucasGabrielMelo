@@ -17,7 +17,7 @@ I am a undergraduate electrical engineering from the Federal University of Campi
 I have interest in the following topics:
 
 <ul>
-  <li>Electromagnetism<\li>
+  <li>Electromagnetism</li>
   <li>Photonic Integrated Circuits</li>
   <li>Optical Communications</li>
   <li>telecommunications</li>
