@@ -17,9 +17,12 @@ I am a undergraduate electrical engineering from the Federal University of Campi
 I have interest in the following topics:
 
 <ul>
+  <li>Electromagnetism<\li>
   <li>Photonic Integrated Circuits</li>
   <li>Optical Communications</li>
   <li>telecommunications</li>
 </ul>
 
-How contact me: lucas.gabriel.melo@ee.ufcg.edu.br
+To contact me: lucas.gabriel.melo@ee.ufcg.edu.br
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielMelo&layout=compact&theme=dracula)
