@@ -24,3 +24,7 @@ I have interest in the following topics:
 </ul>
 
 To contact me: lucas.gabriel.melo@ee.ufcg.edu.br
+
+<div>
+  <a href="https://beacons.ai/LucasGabrielMelo">
+</div>
